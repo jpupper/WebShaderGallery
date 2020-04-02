@@ -1,1 +1,16 @@
 # WebShaderGallery
+
+This is suppposed to be a gallery for showing interactive shaders. Is adapted for working on PC and Android and posibly on iphone.
+The shader code is all mine, based on former experiments with feedback and a function that i´ve invented in wich you put a limit to the value and if it pass that value it decresses and specific amount. Everything else is just matrix transformations of the feedback(rotate,scale and translate)
+
+
+Esta se supone que es una galería para mostrar shaders interactivos. Esta adaptada para usar en PC, android y posiblemente en Iphones.
+El codigo de shaders es todo mio, basado en experimentos previos con feedback y una funcion que inventé que te permite poner un limite a un valor y si pasa ese limite,decrece una cantidad especifica. El movimiento del feedback esta dado por transformaciones matriciales del feedback(rotae,scale y translate).
+
+Here are some pics 
+
+
+
+You can used this for showing shaders if you know how to codethem. 
+
+
