@@ -10,6 +10,9 @@ El codigo de shaders es todo mio, basado en experimentos previos con feedback y 
 Here are some pics 
 
 
+ <img src="https://github.com/jpupper/WebShaderGallery/blob/master/Untitled-2.png" width="640" height="366"/>
+ <img src="https://github.com/jpupper/WebShaderGallery/blob/master/Untitled-4.png" width="640" height="366"/>
+ <img src="https://github.com/jpupper/WebShaderGallery/blob/master/Untitled-5.png" width="640" height="366"/>
 
 You can used this for showing shaders if you know how to codethem. 
 
