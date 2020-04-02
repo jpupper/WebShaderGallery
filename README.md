@@ -7,6 +7,9 @@ The shader code is all mine, based on former experiments with feedback and a fun
 Esta se supone que es una galería para mostrar shaders interactivos. Esta adaptada para usar en PC, android y posiblemente en Iphones.
 El codigo de shaders es todo mio, basado en experimentos previos con feedback y una funcion que inventé que te permite poner un limite a un valor y si pasa ese limite,decrece una cantidad especifica. El movimiento del feedback esta dado por transformaciones matriciales del feedback(rotae,scale y translate).
 
+
+LINK on where to see la cosa : http://mmtt.com.ar/webshadergallery/
+
 Here are some pics 
 
 
@@ -16,4 +19,8 @@ Here are some pics
 
 You can used this for showing shaders if you know how to codethem. 
 
+
+
+
+This woulnd be posible if it wasnt for /: 
 
