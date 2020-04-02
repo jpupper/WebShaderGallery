@@ -25,4 +25,7 @@ You can used this for showing shaders if you know how to codethem.
 This woulnd be posible if it wasnt for this links || esto no sería posible si no fuera por estos links:
 
  - <a href="https://www.davideaversa.it/2016/10/three-js-shader-loading-external-file/" > Load shader from external file  </a>
+ - <a href="https://editor.p5js.org/micuat/sketches/gdP9pdD7a/" > Making FEEDBACK buffer that works on mobile and things  </a>
+ - <a href="http://www.fedemarino.com.ar" > Fede Marino for general advices  </a>
+
 
