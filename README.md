@@ -22,5 +22,7 @@ You can used this for showing shaders if you know how to codethem.
 
 
 
-This woulnd be posible if it wasnt for /: 
+This woulnd be posible if it wasnt for this links || esto no sería posible si no fuera por estos links:
+
+ - <a ref="https://www.davideaversa.it/2016/10/three-js-shader-loading-external-file/" > Load shader from external file  </a>
 
