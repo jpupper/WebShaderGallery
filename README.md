@@ -19,6 +19,11 @@ Here are some pics
 
 You can used this for showing shaders if you know how to codethem. 
 
+PLEASE CONTRIBUTE SO I DON´T STARVE TO DEATH. 
+
+Patreon : https://www.patreon.com/jpupper
+
+Bitcoin :1FZAo2PZLb321NBzMpMe2PHVdC59AC02n1
 
 
 
